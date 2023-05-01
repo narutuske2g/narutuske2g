@@ -9,3 +9,4 @@ narutuske2g/narutuske2g is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 loadstring(game:HttpGet("https://raw.githubusercontent.com/StringV2/StringHub/main/BF.txt", true))()cópia de
+https://raw.githubusercontent.com/StringV2/StringHub/main/BF.txt
